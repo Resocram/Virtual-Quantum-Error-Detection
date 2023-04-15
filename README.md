@@ -12,3 +12,19 @@ to the computation required on each stabilizer, we subsequently introduce symmet
 expansion, an effective quantum error mitigation strategy. The significance of VQED lies
 in its ability to generalize the symmetry expansion method, allowing for efficient error
 detection without the need for executing syndrome measurements.
+
+## User Guide ##
+
+Each method described within the paper has been modularized into files for ease of use and readibility. To run each of the files follow the specified procedure outlined below:
+
+### Syndrome Measurement ###
+1. 
+
+### Symmetry Expansion ###
+1. 
+
+### Virtual Quantum Error Detection ###
+1. 
+
+### Numerical Simulation ###
+1. 
