@@ -27,4 +27,11 @@ detection without the need for executing syndrome measurements.
 
 Each method described within the paper has been modularized into files for ease of use and readibility. To run the files follow the procedure below:
 
-1. 
+1. Intall the latest version of Pennylane (0.29.0)
+    - This can be checked with the qml.version() command
+2. Install the altest version of numpy
+3. Clone or Fork the repository
+4. To run any of the notebooks:
+    - Clear all outputs
+    - Ensure that the python helper function files are located within the same directory
+    - Execute the notebook cells in order starting from the beginning
