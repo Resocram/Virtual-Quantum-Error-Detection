@@ -23,6 +23,10 @@ detection without the need for executing syndrome measurements.
 - stabilizer.py: Contains helper functions for generating stabilizer codes used within the papers numerical results and building stabilizer groups.
 - verification.ipynb: Contains code from exploration into the theory of the paper to better understand the major error mitigation methods described within the paper. 
 
+## Report ##
+
+A supplementary report that describes the work in reproducing the virutal quantum error detection can be found in 400Q_Report.pdf
+
 ## User Guide ##
 
 Each method described within the paper has been modularized into files for ease of use and readibility. To run the files follow the procedure below:
