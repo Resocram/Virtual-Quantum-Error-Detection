@@ -44,6 +44,7 @@ Each method described within the paper has been modularized into files for ease 
 ## Contributions:
 - Andrea Shao
 - Joshua Yellowley
+    - Collaborated and pair-programmed the circuits for syndrome measurement and virtual quantum error detection. Reformatted code from a larger main file into individual files per method with relevant documentation and equations from the paper.
 - Marco Ser
     - Worked on coding the initial circuits for syndrome measurements and symmetry expansion. Referenced several other papers to find useful examples of stabliizer formalisms. Also wrote verification.ipynb to help us verify equations in the paper to help strengthen our understanding.
 - Trevor Flanigan
