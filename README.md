@@ -39,3 +39,11 @@ Each method described within the paper has been modularized into files for ease 
     - Clear all outputs
     - Ensure that the python helper function files are located within the same directory
     - Execute the notebook cells in order starting from the beginning
+
+
+## Contributions:
+- Andrea Shao
+- Joshua Yellowley
+- Marco Ser
+- Trevor Flanigan
+    - Worked on VQED.ipynb, stabilizer.py, and general understanding of processes in paper, especially regarding stabilizer formalism
