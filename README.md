@@ -29,7 +29,7 @@ Each method described within the paper has been modularized into files for ease 
 
 1. Intall the latest version of Pennylane (0.29.0)
     - This can be checked with the qml.version() command
-2. Install the altest version of numpy
+2. Install the latest version of numpy
 3. Clone or Fork the repository
 4. To run any of the notebooks:
     - Clear all outputs
