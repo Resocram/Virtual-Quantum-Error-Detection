@@ -18,7 +18,7 @@ detection without the need for executing syndrome measurements.
 - syndrome_measurement.ipynb: Performs syndrome measurement to detect errors within quantum circuits. The current circuit detects bit-flip errors on three logical qubits.   
 - symmetry_expansion.ipynb: Performs symmetry expansion as described within the paper to mitigate noise in quantum circuits. Given a generic density matrix, noise is applied which is then mitigated by projecting the result back into the noiseless codespace.
 - VQED.ipynb: Performs Virtual Quantum Error Detection as described in the report (Found in virtual_quantum_error_detection.pdf).
-- numerical_simulation.ipynb: Performs numerical analysis and simulation of the methods described in the paper.
+- numerical_simulation.ipynb: Performs numerical analysis and simulation of the methods described in the paper. NOTE: this file will encounter an error when trying to replicate the full results of the paper due to limitations of the pennylane mixed.state device.
 - helper_functions.ipynb: Contains helper functions common each of the notebooks to create a generator set and density matrix. 
 - stabilizer.py: Contains helper functions for generating stabilizer codes used within the papers numerical results and building stabilizer groups.
 - verification.ipynb: Contains code from exploration into the theory of the paper to better understand the major error mitigation methods described within the paper. 
