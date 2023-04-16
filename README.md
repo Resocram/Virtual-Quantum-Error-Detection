@@ -25,7 +25,7 @@ detection without the need for executing syndrome measurements.
 
 ## Report ##
 
-A supplementary report that describes the work in reproducing the virutal quantum error detection can be found in 400Q_Report.pdf
+A supplementary report that describes the work in reproducing the virtual quantum error detection can be found in 400Q_Report.pdf
 
 ## User Guide ##
 
