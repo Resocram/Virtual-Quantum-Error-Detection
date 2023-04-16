@@ -25,7 +25,7 @@ detection without the need for executing syndrome measurements.
 
 ## Report ##
 
-A supplementary report that describes the work in reproducing the virtual quantum error detection can be found in [400Q_Report.pdf](400Q_Report.pdf)
+A supplementary report that describes the work in reproducing the virtual quantum error detection can be found in [400Q_Report.pdf](400Q_Report.pdf).
 
 ## User Guide ##
 
@@ -43,6 +43,7 @@ Each method described within the paper has been modularized into files for ease 
 
 ## Contributions:
 - Andrea Shao
+    - Collaborated on syndrome measurements, virtual quantum error detection, and helper functions. Helped include documentation and comments to files, as well as modularizing code. 
 - Joshua Yellowley
     - Collaborated and pair-programmed the circuits for syndrome measurement and virtual quantum error detection. Reformatted code from a larger main file into individual files per method with relevant documentation and equations from the paper.
 - Marco Ser
